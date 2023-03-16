@@ -4,7 +4,7 @@
   "description": "🚫💩",
   "main": "lib/index.js",
   "scripts": {
-    "test": "eslint tests/*.test.js"
+    "test": "jest"
   },
   "keywords": [
     "eslint",
@@ -17,6 +17,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/eslint-parser": "^7.21.3",
-    "eslint": "^8.36.0"
+    "eslint": "^8.36.0",
+    "jest": "^29.5.0"
   }
 }
