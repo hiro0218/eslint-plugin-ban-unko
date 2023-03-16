@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ban-unko",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "🚫💩",
   "main": "lib/rules/no-unko.js",
   "scripts": {
