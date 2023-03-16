@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-ban-unko",
   "version": "0.0.1",
-  "description": "",
+  "description": "🚫💩",
   "main": "lib/index.js",
   "scripts": {
     "test": "eslint tests/*.test.js"
@@ -9,7 +9,8 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "💩"
   ],
   "author": "hiro",
   "license": "MIT",
