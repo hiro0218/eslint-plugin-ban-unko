@@ -13,6 +13,11 @@
     "💩"
   ],
   "author": "hiro",
+  "homepage": "https://github.com/hiro0218/eslint-plugin-ban-unko#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hiro0218/eslint-plugin-ban-unko.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.36.0",
