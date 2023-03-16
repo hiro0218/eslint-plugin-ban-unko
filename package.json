@@ -2,23 +2,23 @@
   "name": "eslint-plugin-ban-unko",
   "version": "0.0.4",
   "description": "🚫💩",
-  "main": "lib/rules/no-unko.js",
-  "scripts": {
-    "test": "jest"
-  },
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin",
     "💩"
   ],
-  "author": "hiro",
   "homepage": "https://github.com/hiro0218/eslint-plugin-ban-unko#readme",
   "repository": {
     "type": "git",
     "url": "git@github.com:hiro0218/eslint-plugin-ban-unko.git"
   },
   "license": "MIT",
+  "author": "hiro",
+  "main": "lib/rules/no-unko.js",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "eslint": "^8.36.0",
     "jest": "^29.5.0"
