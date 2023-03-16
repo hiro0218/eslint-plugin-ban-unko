@@ -2,7 +2,7 @@
   "name": "eslint-plugin-ban-unko",
   "version": "0.0.3",
   "description": "🚫💩",
-  "main": "lib/index.js",
+  "main": "lib/rules/no-unko.js",
   "scripts": {
     "test": "jest"
   },
