@@ -36,3 +36,5 @@ The following terms are currently banned:
 - unko
 - poop
 - feces
+
+...etc
