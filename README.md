@@ -25,16 +25,8 @@ module.exports = {
 
 Now, any usage of the word "unko" or related terms in your codebase will trigger an error.
 
-## Supported terms
+## Supported Words
 
-The following terms are currently banned:
+See the following sources for currently banned words.
 
-- 💩
-- うんこ
-- ｳﾝｺ
-- ウンコ
-- unko
-- poop
-- feces
-
-...etc
+https://github.com/hiro0218/eslint-plugin-ban-unko/blob/main/lib/rules/no-unko.js#L1-L21
