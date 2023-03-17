@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-ban-unko",
   "version": "0.0.4",
-  "description": "🚫💩",
+  "description": "The use of symbols resembling 💩 is not allowed.",
   "keywords": [
     "eslint",
     "eslintplugin",

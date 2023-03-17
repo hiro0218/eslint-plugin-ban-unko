@@ -21,7 +21,7 @@ ruleTester.run("no-unko", rule, {
 function invalid(code, output) {
   const invalidTest = {
     code,
-    errors: [{ message: "The use of strings similar to 💩 is prohibited." }],
+    errors: [{ message: "The use of symbols resembling 💩 is not allowed." }],
   };
   if (output) {
     invalidTest.output = output;
